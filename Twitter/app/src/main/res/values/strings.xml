@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Twitter</string>
+    <string name="action_settings">Settings</string>
+    <string name="lbl_username">Username</string>
+    <string name="lbl_enter_username">Enter your username!</string>
+    <string name="password">Enter your password</string>
+    <string name="title_activity_principala">Principala</string>
+    <string name="title_activity_tweet_detail">TweetDetail</string>
+</resources>
